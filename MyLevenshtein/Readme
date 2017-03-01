@@ -1,0 +1,6 @@
+This is my implementation of the Levensthein algorithm which calculates the distance between to strings. 
+
+Compile and run testMyLevensthein.java to run the program.
+
+It contains a simple UI where the user inputs two strings to be compared.
+
