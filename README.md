@@ -1,2 +1,2 @@
-# Code
-A collection of useful code.
+# Algorithms
+***A collection of algorithms implemented during BSc***
